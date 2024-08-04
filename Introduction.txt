@@ -1,0 +1,15 @@
+This is the Image Classification CNN Model.
+Creators of this Model : Suchi Subhra Jana and Subhroneel Sarkar.
+
+About this Model: This is an Image Classification Model for Flowers belonging to (Roses, Tulips, Sunflowers, Daisy, Dandelions).
+This is our Image Recognition Project.
+This Project mainly focuses on detecting the types of above mentioned Flowers with high accuracy mark. It can preciously detect many known and unknow samples. We have feed this model with a lot of training, testing and validation dataset.
+
+Should you need any further information or have any questions, please do not hesitate to reach out.
+
+Suggestions, Help, Contributions are always welcomed.
+
+Thanking you,
+Yours Faithfully,
+Suchi Subhra Jana.
+Subhroneel Sarkar.
